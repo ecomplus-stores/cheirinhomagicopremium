@@ -10,7 +10,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/fundo-site-capa.png"
+          "img": "/img/uploads/fundo-site-capa.png",
+          "mobile_img": "/img/uploads/imagem-para-site.png"
         }
       ]
     },
