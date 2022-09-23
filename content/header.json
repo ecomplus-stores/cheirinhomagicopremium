@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Confira o maior portfólio de Fragrâncias do Brasil",
+    "link": "",
+    "color": "#090909"
   },
   "contacts_stripe": {
     "pages": [
@@ -23,5 +24,7 @@
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
