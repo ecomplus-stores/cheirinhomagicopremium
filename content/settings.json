@@ -1,6 +1,5 @@
 {
   "domain": "cheirinhomagicopremium.com.br",
-  "repository": "ecomplus-stores/cheirinhomagicopremium",
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
@@ -8,6 +7,7 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/cheirinhomagicopremium",
   "logo": "/img/uploads/adesivo-maquinas.jpg",
   "name": "cheirinhomagicopremium",
   "short_name": "cheirinhomagicopremium",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/adesivo-maquinas.jpg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#090909",
+  "secondary_color": "#e7ba20",
   "icon": "/img/uploads/foto-instagram.png",
   "store_id": 17845,
   "description": "Sua Loja de Fragrâncias Exclusivas & Marketing Olfativo Profissional",
