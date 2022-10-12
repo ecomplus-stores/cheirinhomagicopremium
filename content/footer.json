@@ -4,7 +4,7 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": false,
+    "list_pages": true,
     "title": "Páginas",
     "list": []
   },
@@ -15,9 +15,9 @@
   },
   "contacts": {
     "title": "Contatos",
-    "phone_wpp": false,
-    "socials": false,
-    "email": false,
+    "phone_wpp": true,
+    "socials": true,
+    "email": true,
     "address": true
   },
   "stamps": [
