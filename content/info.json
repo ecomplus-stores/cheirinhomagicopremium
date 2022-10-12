@@ -1,13 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Seu Pedido chega super rápido !!",
+    "text": "",
     "title": "Enviamos para todo o Brasil"
   },
   "installments": {
     "show": true,
     "text": "",
-    "title": "Em até 6x sem juros nos Cartões de Crédito"
+    "title": "Seja nosso Revendedor"
   },
   "exchange": {
     "show": true,
