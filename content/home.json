@@ -4,13 +4,18 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 5000,
       "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/capa-dourada-de-site.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/fundo-site-capa.jpg"
         }
       ]
     },
