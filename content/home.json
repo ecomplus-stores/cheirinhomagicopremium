@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/fundo-spray-500.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-lojas-famosas.jpg"
         },
         {
@@ -22,11 +27,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/caapa-gold-e-agua-perfumada.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/fundo-spray-500.png"
         }
       ]
     },
