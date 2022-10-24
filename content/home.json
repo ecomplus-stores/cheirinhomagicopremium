@@ -15,11 +15,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/capa-dourada-de-site.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/fundo-site-capa.jpg",
           "link": "https://www.cheirinhomagicopremium.com.br/revendedores--atacadistas"
         },
@@ -27,6 +22,11 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/caapa-gold-e-agua-perfumada.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/fundo-spray-500.png"
         }
       ]
     },
