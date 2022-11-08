@@ -39,7 +39,7 @@
     {
       "page": 1,
       "title": "Mais vendidos",
-      "shuffle": false,
+      "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "link": "https://www.cheirinhomagicopremium.com.br/mais-vendidos",
