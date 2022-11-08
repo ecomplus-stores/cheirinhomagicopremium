@@ -48,11 +48,6 @@
       "sort": "views"
     },
     {
-      "type": "page-title",
-      "title": "",
-      "description": "Tudo que seu Negócio precisa para ter um ambiente perfumado com padrão Premium de Qualidade"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -61,6 +56,11 @@
       "sort": "offers",
       "title": "BLACK FRIDAY 2022",
       "link": "https://www.cheirinhomagicopremium.com.br/sache-perfumado-via-aroma"
+    },
+    {
+      "type": "page-title",
+      "title": "",
+      "description": "Tudo que seu Negócio precisa para ter um ambiente perfumado com padrão Premium de Qualidade"
     }
   ]
 }
