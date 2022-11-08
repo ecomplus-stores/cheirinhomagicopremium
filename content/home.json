@@ -44,8 +44,8 @@
       "type": "collection-shelf",
       "link": "https://www.cheirinhomagicopremium.com.br/mais-vendidos",
       "limit": 6,
-      "collection_id": null,
-      "sort": "news"
+      "collection_id": "636a818173321213f8d009ed:categories:MAIS VENDIDOS:/mais-vendidos",
+      "sort": "views"
     },
     {
       "type": "page-title",
