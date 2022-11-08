@@ -40,7 +40,7 @@
       "page": 1,
       "title": "Mais vendidos",
       "shuffle": false,
-      "headless": true,
+      "headless": false,
       "type": "collection-shelf",
       "link": "https://www.cheirinhomagicopremium.com.br/mais-vendidos",
       "limit": 6,
