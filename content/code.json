@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".prices__installments{\n  display: none;\n}",
   "html_head": "<meta name=\"google-site-verification\" content=\"CMbly7schaKjxfv5aJ63sFSTg4RLY468MWDzRe3El5w\" />",
   "html_body": ""
 }
