@@ -38,6 +38,14 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63a1a9e64834634f731875bb:categories:PRODUTOS IMPORTADOS COM FRETE GRÁTIS:/produtos-importados-com-frete-gratis",
+      "sort": "views"
+    },
+    {
       "page": 1,
       "title": "MAIS VENDIDOS NO SITE !!!",
       "shuffle": true,
