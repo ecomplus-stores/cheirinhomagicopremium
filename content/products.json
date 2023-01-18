@@ -13,12 +13,12 @@
       }
     },
     {
-      "type": "related-products",
-      "title": "Produtos relacionados"
-    },
-    {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
+    },
+    {
+      "type": "related-products",
+      "title": "Produtos relacionados"
     },
     {
       "type": "product-description",
