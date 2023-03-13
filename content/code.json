@@ -1,5 +1,5 @@
 {
-  "css": ".product__buy button {\ncolor: #ffffff;\nbackground-color: #5f9903;\nborder-color: #5f9903;\nwidth: 100%;\n}\n.product__buy button:hover {\nbackground: #4e7d02;\nborder-color: #4e7d02;\n}\n.product__sticky-buy .btn-primary{\nbackground-color: #25BA34;\nborder-color: #25BA34;\n}\n\n.product__sticky-buy .btn-primary:hover{\nbackground-color: #1B8726;\nborder-color: #1B8726;\n}",
+  "css": ".product__buy button {\ncolor: #ffffff;\nbackground-color: #5f9903;\nborder-color: #5f9903;\nwidth: 100%;\n}\n.product__buy button:hover {\nbackground: #4e7d02;\nborder-color: #4e7d02;\n}\n.product__sticky-buy .btn-primary{\nbackground-color: #25BA34;\nborder-color: #25BA34;\n}\n\n.product__sticky-buy .btn-primary:hover{\nbackground-color: #1B8726;\nborder-color: #1B8726;\n}\n.address-form button, .cart__btn-checkout, .checkout__account button, .login__email-btn, .minicart__btn-checkout, .minicart__empty a, .payment__method button, .product-card__buy button, .product__buy button, .product__sticky-buy a {background-color: #007F02!important;    border-color: #007F02!important;\n}",
   "html_head": "<meta name=\"google-site-verification\" content=\"CMbly7schaKjxfv5aJ63sFSTg4RLY468MWDzRe3El5w\" />",
   "html_body": ""
 }
