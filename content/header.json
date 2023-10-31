@@ -10,11 +10,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/sache-perfumado-via-aroma?QUEIMA DE ESTOQUE",
-      "/maquinas-profissionais-para-aromatizacao-de-ambiente?MÁQUINAS PROFISSIONAIS & REFIS",
-      "/refil-para-difusor-de-varetas?REFIL PARA DIFUSOR DE VARETAS"
-    ],
+    "featured": [],
     "random": 14,
     "full_width": true
   },
