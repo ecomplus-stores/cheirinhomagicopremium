@@ -38,31 +38,6 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "64f1df9b2cd6b65959373fbe:categories:LINHA PREMIUM 1 LITRO:/home-spray-premium-1-litro",
-      "sort": "sales",
-      "title": ""
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "64f1d7972cd6b65959372789:categories:LINHA PREMIUM 500 ml:/home-spray-premium-500-ml",
-      "sort": "sales"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "64f1c5712cd6b65959370481:categories:LINHA PREMIUM 60 ml:/home-spray-premium-60-ml",
-      "sort": "views"
-    },
-    {
       "type": "page-title",
       "title": "",
       "description": "Tudo que seu Negócio precisa para ter um ambiente perfumado com padrão Premium de Qualidade"
