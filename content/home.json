@@ -38,25 +38,29 @@
       "enabled": true
     },
     {
-      "page": 1,
-      "title": "MAIS VENDIDOS NO SITE !!!",
-      "shuffle": true,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.cheirinhomagicopremium.com.br/mais-vendidos",
-      "limit": 6,
-      "collection_id": "636a818173321213f8d009ed:categories:MAIS VENDIDOS:/mais-vendidos",
-      "sort": "views"
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64f1df9b2cd6b65959373fbe:categories:LINHA PREMIUM 1 LITRO:/home-spray-premium-1-litro",
+      "sort": "sales",
+      "title": ""
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6244aa5e2e405e04ff0de65d:categories:BLACK FRIDAY:/sache-perfumado-via-aroma",
-      "sort": "offers",
-      "title": "QUEIMA DE ESTOQUE",
-      "link": "https://www.cheirinhomagicopremium.com.br/sache-perfumado-via-aroma"
+      "collection_id": "64f1d7972cd6b65959372789:categories:LINHA PREMIUM 500 ml:/home-spray-premium-500-ml",
+      "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64f1c5712cd6b65959370481:categories:LINHA PREMIUM 60 ml:/home-spray-premium-60-ml",
+      "sort": "views"
     },
     {
       "type": "page-title",
