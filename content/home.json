@@ -38,6 +38,14 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "655f46b42cd6b65959b61f96:collections:Mais vendidos:/mais-vendidos",
+      "sort": "views"
+    },
+    {
       "type": "page-title",
       "title": "",
       "description": "Tudo que seu Negócio precisa para ter um ambiente perfumado com padrão Premium de Qualidade"
