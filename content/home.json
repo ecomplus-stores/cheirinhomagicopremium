@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/capa-de-site-black-friday-2023.gif"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/gif-site-capa-02.gif",
           "link": "https://www.cheirinhomagicopremium.com.br/home-spray-premium-1-litro"
         },
@@ -30,11 +35,6 @@
           "end": "",
           "img": "/img/uploads/nova-capa-de-site-sacolas-gif.gif",
           "link": "https://www.cheirinhomagicopremium.com.br/home-spray-premium-1-litro"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/capa-de-site-black-friday-2023.gif"
         }
       ]
     },
