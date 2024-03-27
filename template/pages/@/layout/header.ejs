@@ -268,99 +268,27 @@ const hasAllDepartments = header.menu_all_departments
 
       <% if (categories && categories.length) { %>
         <div class="d-none d-lg-block <%= isCategoriesNavFull ? 'col-12 order-lg-last' : 'col' %> header__nav-block">
-          <nav class="header__nav<%= isCategoriesNavFull ? ' header__nav--full' : '' %>">
-            <% if (hasAllDepartments) { %>
-              <div class="d-inline-block">
-                <a 
-                  href="javascript:;"
-                  class="header__category"
-                  id="cd-all"
-                  onmouseover="toggleSubmenu('all', this)"
-                  onclick="toggleSubmenu('all', this)"
-                >
-                  <%= header.name_all_departments || _.dictionary('all') %>
-                </a>
-                <nav class="header__submenu header__submenu--full" id="s-all">
-                  <div class="row">
-                    <% _.categories.forEach(({ name, slug, parent, _id }) => { %>
-                      <% if (!parent) { 
-                        %>
-                        <div class="col-12 col-lg-<%- isCategoriesNavFull ? '2' : '4' %>">
-                          <a 
-                            id="sd-all-<%= _id %>" 
-                            href="/<%= slug %>"
-                          >
-                            <%= name %>
-                          </a>
-                        <% const subcategories = _.categories.filter(({ parent }) => parent && parent.slug === slug) %>
-                        <% if (subcategories.length) { %>
-                          <div id="header__submenu-<%= slug %>">
-                            <ul class="header__links">
-                              <% subcategories.forEach(subcategory => { %>
-                                <li>
-                                  <a id="td-all-<%= subcategory._id %>" class="header__submenu-subcategory" href="/<%= subcategory.slug %>">
-                                    <%= subcategory.name %>
-                                  </a>
-                                </li>
-                                <% }) %>
-                              </ul>
-                            </div>
-                          <% } %>
-                          </div>
-                        <% } %>
-                      <% }) %>
-                    </div>
-                  </nav>
-              </div>
-            <% } %>
-            <% categories.forEach(({ slug, name, _id}) => { %>
-              <% let $categoryLink %>
-              <div class="d-inline-block">
-                <a
-                  href="javascript:;"
-                  class="header__category"
-                  id="cd-<%= _id %>"
-                  <%- hasMegamenu
-                    ? `onmouseover="toggleSubmenu('${slug}', this)" onclick="toggleSubmenu('${slug}', this, true)"`
-                    : `onclick="toggleSidenav('${slug}')"` %>
-                >
-                  <%= name %>
-                </a>
-                <%- $categoryLink %>
-                <%  if (slug && hasMegamenu) { %>
-                  <% const subcategories = _.categories.filter(({ parent }) => parent && parent.slug === slug) %>
-                  <% if (subcategories.length) { %>
-                    <%
-                      if (isAlphabeticalOrderSubmenu) {
-                        subcategories.sort((a, b)=> {
-                          return b.name > a.name ? -1 : 1
-                        })
-                      }
-                    %>
-                    <nav class="header__submenu<%= fullWidthSubmenu ? ' header__submenu--full' : '' %>" id="<%= `s-${slug.replace(/\//g, '_')}` %>">
-                      <% subcategories.forEach(subcategory => { %>
-                        <div>               
-                          <a id="sd-<%= subcategory._id %>" href="/<%= subcategory.slug %>"><%= subcategory.name %></a>
-                          <% const thirdCategories = _.categories.filter(({ parent }) => parent && parent.slug === subcategory.slug) %>
-                          <%
-                            if (isAlphabeticalOrderSubmenu) {
-                              thirdCategories.sort((a, b)=> {
-                                return b.name > a.name ? -1 : 1
-                              })
-                            }
-                          %>
-                          <% thirdCategories.forEach(thirdCategory => { %>
-                            <a id="td-<%= thirdCategory._id %>" class="header__submenu-subcategory" href="/<%= thirdCategory.slug %>">
-                              <%= thirdCategory.name %>
-                            </a>
-                          <% }) %>
-                        </div>
-                      <% }) %>
-                    </nav>
-                  <% } %>
-                <% } %>
-              </div>
-            <% }) %>
+          <nav class="header__nav header__nav--full">
+            <div class="d-inline-block">
+              <a href="javascript:;" class="header__category" id="cd-" onmouseover="toggleSubmenu('sache-perfumado-via-aroma', this)" onclick="toggleSubmenu('sache-perfumado-via-aroma', this, true)">QUEIMA DE ESTOQUE</a></div>
+            <div class="d-inline-block">
+              <a href="javascript:;" class="header__category" id="cd-" onmouseover="toggleSubmenu('maquinas-profissionais-para-aromatizacao-de-ambiente', this)" onclick="toggleSubmenu('maquinas-profissionais-para-aromatizacao-de-ambiente', this, true)">MÁQUINAS PROFISSIONAIS &amp; REFIS</a>
+            </div>
+            <div class="d-inline-block">
+              <a href="/agua-perfumada-premium-500" class="header__category" id="cd-" onmouseover="toggleSubmenu('agua-perfumada-premium-500-ml', this)" onclick="toggleSubmenu('agua-perfumada-premium-500-ml', this, true)">ÁGUA PERFUMADA PREMIUM 500 ml</a>
+            </div>
+            <div class="d-inline-block">
+              <a href="/home-spray-premium-60-ml" class="header__category" id="cd-64f1c5712cd6b65959370481" onmouseover="toggleSubmenu('home-spray-premium-60-ml', this)" onclick="toggleSubmenu('home-spray-premium-60-ml', this, true)">LINHA PREMIUM 60 ml</a>
+            </div>
+            <div class="d-inline-block">
+              <a href="/home-spray-premium-500" class="header__category" id="cd-64f1d7972cd6b65959372789" onmouseover="toggleSubmenu('home-spray-premium-500-ml', this)" onclick="toggleSubmenu('home-spray-premium-500-ml', this, true)">LINHA PREMIUM 500 ml</a>
+            </div>
+            <div class="d-inline-block">
+              <a href="/home-spray-premium-1" class="header__category" id="cd-64f1df9b2cd6b65959373fbe" onmouseover="toggleSubmenu('home-spray-premium-1-litro', this)" onclick="toggleSubmenu('home-spray-premium-1-litro', this, true)">LINHA PREMIUM 1 LITRO</a>
+            </div>
+            <div class="d-inline-block">
+              <a href="javascript:;" class="header__category" id="cd-64fc55802cd6b6595944349e" onmouseover="toggleSubmenu('refil-para-difusor-de-varetas', this)" onclick="toggleSubmenu('refil-para-difusor-de-varetas', this, true)">REFIL PARA DIFUSOR DE VARETAS</a>
+            </div>
           </nav>
         </div>
       <% } %>
