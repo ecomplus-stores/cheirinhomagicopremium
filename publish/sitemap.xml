@@ -2,48 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://cheirinhomagicopremium.com.br /sache-perfumado-via-aroma</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://cheirinhomagicopremium.com.br /maquinas-profissionais-para-aromatizacao-de-ambiente</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://cheirinhomagicopremium.com.br /home-spray-premium-60-ml</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://cheirinhomagicopremium.com.br /home-spray-premium-500-ml</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://cheirinhomagicopremium.com.br /agua-perfumada-premium-500-ml</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://cheirinhomagicopremium.com.br /home-spray-premium-1-litro</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://cheirinhomagicopremium.com.br /refil-para-difusor-de-varetas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://cheirinhomagicopremium.com.br /refil-para-difusor-de-varetas-premium</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -152,6 +110,48 @@
     </url>
   
     <url>
+      <loc>https://cheirinhomagicopremium.com.br /sache-perfumado-via-aroma</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://cheirinhomagicopremium.com.br /maquinas-profissionais-para-aromatizacao-de-ambiente</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://cheirinhomagicopremium.com.br /home-spray-premium-60-ml</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://cheirinhomagicopremium.com.br /home-spray-premium-500-ml</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://cheirinhomagicopremium.com.br /agua-perfumada-premium-500-ml</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://cheirinhomagicopremium.com.br /home-spray-premium-1-litro</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://cheirinhomagicopremium.com.br /refil-para-difusor-de-varetas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://cheirinhomagicopremium.com.br /mais-vendidos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -170,13 +170,13 @@
     </url>
   
     <url>
-      <loc>https://cheirinhomagicopremium.com.br /pages/pagamentos</loc>
+      <loc>https://cheirinhomagicopremium.com.br /pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://cheirinhomagicopremium.com.br /pages/faq</loc>
+      <loc>https://cheirinhomagicopremium.com.br /pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -236,13 +236,13 @@
     </url>
   
     <url>
-      <loc>https://cheirinhomagicopremium.com.br /app/index</loc>
+      <loc>https://cheirinhomagicopremium.com.br /admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://cheirinhomagicopremium.com.br /admin/index</loc>
+      <loc>https://cheirinhomagicopremium.com.br /app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
