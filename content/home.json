@@ -10,12 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/11366.png",
-          "link": "https://www.cheirinhomagicopremium.com.br/home-spray-premium-1-litro"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/1214.png",
           "link": "https://www.cheirinhomagicopremium.com.br/home-spray-premium-500",
           "mobile_img": "/img/uploads/1222.png"
@@ -23,8 +17,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/1112.png",
-          "link": "https://www.cheirinhomagicopremium.com.br/home-spray-premium-500-ml"
+          "img": "/img/uploads/11366.png",
+          "link": "https://www.cheirinhomagicopremium.com.br/home-spray-premium-1-litro"
         },
         {
           "start": "",
@@ -32,6 +26,12 @@
           "img": "/img/uploads/1127.png",
           "link": "https://www.cheirinhomagicopremium.com.br/home-spray-premium-500",
           "mobile_img": "/img/uploads/1139.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/1112.png",
+          "link": "https://www.cheirinhomagicopremium.com.br/home-spray-premium-500-ml"
         }
       ]
     },
