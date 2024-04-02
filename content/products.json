@@ -13,6 +13,10 @@
       }
     },
     {
+      "type": "buy-together",
+      "enabled": false
+    },
+    {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
     },
