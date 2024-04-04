@@ -54,7 +54,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "lowest_price"
+      "sort": "lowest_price",
+      "title": "Ofertas"
     },
     {
       "type": "page-title",
