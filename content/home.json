@@ -50,6 +50,13 @@
       "sort": "views"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "lowest_price"
+    },
+    {
       "type": "page-title",
       "title": "",
       "description": "Tudo que seu Negócio precisa para ter um ambiente perfumado com padrão Premium de Qualidade"
