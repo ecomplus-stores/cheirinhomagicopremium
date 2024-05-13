@@ -1,19 +1,19 @@
 {
   "shipping": {
     "show": true,
-    "text": "Dispomos das melhores condições de pagamentos e temos os melhores valores para seu envio chegar o mais rápido possível no seu endereço",
-    "title": "Enviamos para todo o Brasil"
+    "text": "",
+    "title": "FRETES PROMOCIONAIS"
   },
   "installments": {
     "show": true,
-    "text": "Garantimos LUCROS de até 100% em suas vendas com as melhores condições de pagamentos e pedidos mínimos a partir de R$600,00",
-    "title": "Seja nosso Revendedor",
+    "text": "",
+    "title": "SEJA UM REVENDEDOR AUTORIZADO",
     "link": ""
   },
   "exchange": {
     "show": false,
-    "text": "ATENÇÃO CARO CLIENTE*** Esteja convicto das suas escolhas na hora de adquirir nossas Fragrâncias, se caso estiver com dificuldades para decidir basta solicitar um atendimento clicando no botão do whatsapp que iremos te ajudar a fazer a escolha ideal",
-    "title": "Não realizamos trocas"
+    "text": "",
+    "title": "NÃO REALIZAMOS TROCAS"
   },
   "promo": {
     "show": true,
