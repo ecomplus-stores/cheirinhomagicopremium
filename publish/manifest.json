@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.bf72b2b2b236fe28b388c4a41a8554ab.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f05d9e99fd97101233785bc91ea10937.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.1dbdcee591006e6c9a67b9afabbcfbd4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d837f180b62b5fa12bf7c8209b898504.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.e75a08c5a6adaa1451e4fcc20d2ac166.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "cheirinhomagicopremium ",
+  "short_name": "cheirinhomagicopremium",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Sua Loja de Fragrâncias Exclusivas & Marketing Olfativo Profissional",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
